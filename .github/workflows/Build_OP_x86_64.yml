@@ -99,5 +99,5 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
-        name: OpenWrt_F3.601
+        name: OpenWrt_F3.602
         path: openwrt/bin
